@@ -1,0 +1,17 @@
+package exercise2;
+
+import java.util.Scanner;
+
+public class Circle {
+
+  public static void main(String[] args){
+    Scanner input = new Scanner(System.in);
+    double r = 3.0;
+    double Pi = 3.14;
+    double C= 2*Pi*r;
+    double A= Pi*r*r;
+
+    System.out.prinln("Circumference"+C);
+    System.out.prinln("Area"+A);
+  }
+} 
