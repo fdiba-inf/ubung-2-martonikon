@@ -13,6 +13,6 @@ public class SumOfDigits {
     int c = number %10 ;
     int sum = a + b + c;
   
-    System.out.println("Sum of digits:"+ sum );
+    System.out.println("Sum of digits: "+ sum );
   }
 }

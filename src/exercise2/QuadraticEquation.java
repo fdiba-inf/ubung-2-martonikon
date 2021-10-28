@@ -24,7 +24,7 @@ public static void main(String args[]){
           System.out.println(x1);
           System.out.println(x2);
             } else {
-           System.out.println("imaginary values");
+           System.out.println("Imaginary values");
             }
             }else{
                if (b !=0 ) {
