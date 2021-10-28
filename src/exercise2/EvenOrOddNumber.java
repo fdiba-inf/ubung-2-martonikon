@@ -13,8 +13,8 @@ public static void main(String args[])
     num = input.nextInt();
 
     if ( num % 2 == 0 )
-        System.out.println("Even");
+        System.out.println("Number is even");
      else
-        System.out.println("Odd");
+        System.out.println("Number is odd");
   }
 }
